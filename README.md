@@ -13,3 +13,5 @@
 
 ## Планируемые изменения
 Ведутся во вкладке Issues.
+
+см. https://github.com/Digilith/liga-frontend/issues/1
